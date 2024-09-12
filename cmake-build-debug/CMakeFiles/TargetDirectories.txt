@@ -1,0 +1,3 @@
+C:/Users/glaci/source/repos/prc/calculator/cmake-build-debug/CMakeFiles/calculator.dir
+C:/Users/glaci/source/repos/prc/calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/glaci/source/repos/prc/calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
