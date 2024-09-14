@@ -1,12 +1,12 @@
 #include <stdio.h>
 
-enum CalculatorError {
+typedef enum {
     SUCCESS,
     DIVISION_BY_ZERO,
     INVALID_OPERATOR,
-};
+} CalculatorError;
 
-enum CalculatorError calculate(float x, float y, char operator, float* out) {
+CalculatorError calculate(float x, float y, char operator, float* out) {
     switch (operator) {
         case '+':
             *out = x + y;
